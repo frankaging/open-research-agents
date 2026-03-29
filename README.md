@@ -1,4 +1,4 @@
-# open-research-agents
+# lite-research-agents
 
 <img src="demo.png" width="600" />
 
