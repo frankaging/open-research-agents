@@ -12,8 +12,10 @@ uv sync
 
 ## Research Proposal
 
-```bash
-claude "Run the war room on projects/reward-model-interpretability/"
+Open your favourite agent CLI (Claude, Codex, Gemini, etc.) and chat with:
+
+```
+Run the war room and generate a research proposal on projects/reward-model-interpretability/
 ```
 
 Monitor in a second terminal:
